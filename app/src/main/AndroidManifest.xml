@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bangaliranna">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Muri_Ghonto"></activity>
+        <activity android:name=".SHUTKI_BHORTA" />
+        <activity android:name=".DAL_BHORTA" />
+        <activity android:name=".EGGPLANT_BHORTA" />
+        <activity android:name=".ALOO_BHORTA" />
+        <activity android:name=".PANTA_ILISH" />
+        <activity android:name=".BEEF_REZALA" />
+        <activity android:name=".Jhinge_Alu_Posto" />
+        <activity android:name=".Cauliflower_Pulao" />
+        <activity android:name=".Lobster_Curry" />
+        <activity android:name=".Narkel_Nadu" />
+        <activity android:name=".Wholetilapia" />
+        <activity android:name=".Catfish_Curry" />
+        <activity android:name=".Spicy_Chicken_Ball" />
+        <activity android:name=".Hilsa_Curry" />
+        <activity android:name=".Sweet_And_Sour_Lentil" />
+        <activity android:name=".Cauliflower" />
+        <activity android:name=".Vegetable_cutlet" />
+        <activity android:name=".Beef_yogurt_curry" />
+        <activity android:name=".Mutton_stew" />
+        <activity android:name=".Beef_keema_Curry" />
+        <activity android:name=".Menu" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

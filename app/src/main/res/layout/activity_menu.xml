@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#31BFD3"
+    tools:context=".Menu">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <Button
+        android:id="@+id/btno"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="Beef Keema Curry"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btnto"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="Mutton Stew"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btnth"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="Beef Yogurt Curry"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+
+    <Button
+        android:id="@+id/btnfi"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/menubtn"
+        android:text="Cauliflower And Potato Curry"
+        android:textSize="18dp" />
+
+    <Button
+        android:id="@+id/btnfo"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="Vegetable Cutlet"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+
+    <Button
+        android:id="@+id/btnsix"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="Sweet And Sour Lentil"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btnse"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="Hilsa Curry With Eddoe "
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btneight"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="Spicy Chicken Ball"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btnnine"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="Catfish Curry"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btnten"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="Whole tilapia"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btnele"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="Narkel Nadu"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btntew"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="Lobster Curry"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btnthirteen"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="Cauliflower Pulao"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btnfourteen"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="Jhinge-Alu Posto "
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btnfifteen"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="BEEF REZALA-SPICY BEEF CURRY"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btnsixteen"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="PANTA-ILISH"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btnseventeen"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="ALOO BHORTA-SPICY MASHED POTATO"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btneighteen"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="EGGPLANT BHORTA-BEGUN BHORTA"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btnnineteen"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="DAL BHORTA-MASHED LENTILS"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btntwenty"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="SHUTKI BHORTA-DRIED FISH BHORTA"
+        android:textSize="18dp"
+        android:background="@drawable/menubtn"
+        />
+    <Button
+        android:id="@+id/btntwno"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="Muri Ghonto"
+        android:textSize="18dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/menubtn"
+        />
+</LinearLayout>
+</ScrollView>
